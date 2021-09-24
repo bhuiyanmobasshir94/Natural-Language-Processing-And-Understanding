@@ -1,0 +1,1 @@
+1. [A Deep Dive Into the Transformer Architecture – The Development of Transformer Models](https://www.kdnuggets.com/2020/08/transformer-architecture-development-transformer-models.html) ~ Not completed
