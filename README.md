@@ -4,3 +4,6 @@
 3. [Text processing tools for TensorFlow](https://www.tensorflow.org/text)
 4. [contextualized-topic-models](https://github.com/MilaNLProc/contextualized-topic-models)
 5. [Sentence Transformers in the Hugging Face Hub](https://huggingface.co/blog/sentence-transformers-in-the-hub)
+6. [SentenceTransformers](https://www.sbert.net/)
+7. [Welcome spaCy to the Hugging Face Hub](https://huggingface.co/blog/spacy)
+8. [Transformer course from huggingface](https://huggingface.co/course/chapter1?fw=pt)
