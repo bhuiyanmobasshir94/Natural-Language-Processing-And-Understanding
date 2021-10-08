@@ -8,3 +8,4 @@
 7. [Welcome spaCy to the Hugging Face Hub](https://huggingface.co/blog/spacy)
 8. [Transformer course from huggingface](https://huggingface.co/course/chapter1?fw=pt)
 9. [Deep Learning over the Internet: Training Language Models Collaboratively](https://huggingface.co/blog/collaborative-training)
+10. [Shahajbert](https://github.com/yandex-research/DeDLOC/tree/main/sahajbert)
