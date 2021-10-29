@@ -9,3 +9,4 @@
 8. [Transformer course from huggingface](https://huggingface.co/course/chapter1?fw=pt)
 9. [Deep Learning over the Internet: Training Language Models Collaboratively](https://huggingface.co/blog/collaborative-training)
 10. [Shahajbert](https://github.com/yandex-research/DeDLOC/tree/main/sahajbert)
+11. [How to become an NLP & Transformer Model Guru: a road map to success!](https://www.linkedin.com/pulse/how-become-transformer-model-guru-denis-rothman/)
