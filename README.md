@@ -11,3 +11,4 @@
 10. [Shahajbert](https://github.com/yandex-research/DeDLOC/tree/main/sahajbert)
 11. [How to become an NLP & Transformer Model Guru: a road map to success!](https://www.linkedin.com/pulse/how-become-transformer-model-guru-denis-rothman/)
 12. [Dodrio](https://github.com/poloclub/dodrio)
+13. [Document clustering](http://brandonrose.org/clustering)
